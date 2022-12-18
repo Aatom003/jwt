@@ -12,7 +12,7 @@ var jwtKey = []byte("secret_key")               // secret key used to sign the J
 
 var users = map[string]string{                  // map of user names and passwords
 	 "user1":"password1",
-	 "user2":"password2" ,
+	 "user3":"password3" ,
 }
 
 // Credentials struct represents the user credentials (username and password) sent in the request body
